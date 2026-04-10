@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "jshttp",
+  "repo": "content-type",
+  "versions": [
+    {
+      "commit": "6115a4064e4dfd9845241c3f89c233ee2423deeb",
+      "parsed_at": "2026-04-10T15:54:46.746389+00:00",
+      "tag": "v1.0.5",
+      "filetree": "filetree/6115a4064e4dfd9845241c3f89c233ee2423deeb.nq.gz",
+      "blobs": [
+        "blob/c1a922a9afba84293f449dc4b661124fbac2fd5d.nq.gz",
+        "blob/5c2209663baa583c5753aebd8aeff1836b8f085f.nq.gz",
+        "blob/41840e7bc3e48cda894597cd18e562a37a174f7c.nq.gz",
+        "blob/9db19f63fb96592d8d3bced654a72d47c12cef97.nq.gz",
+        "blob/34b1a2de37216b60b749c23b6f894e51d701ecf0.nq.gz",
+        "blob/458367139eb9f0af3daa5449ff0a3d9e2e189582.nq.gz",
+        "blob/c58268ad26e98c128bf936c8fd32c63453d23f82.nq.gz",
+        "blob/9616619732184386339de80f415b250843dffba9.nq.gz",
+        "blob/62562b74a3b5a79e82ca417b02e0f597d85f5e2f.nq.gz",
+        "blob/c6a7986ce8fe668508ecdfc7540228efbc9cffd4.nq.gz",
+        "blob/1609417b32a883f75e16528c8713fe41e3b4974c.nq.gz",
+        "blob/9808c3b2b6602da61eb4afcb4caf33368e3e2bd4.nq.gz",
+        "blob/f15b98e249d653f23d7e121037bde0eae1817582.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
